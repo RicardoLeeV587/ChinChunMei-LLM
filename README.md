@@ -9,5 +9,6 @@
 - 基于Llama2-chat-13B的中文对话LoRA补丁及合并后的模型：[Llama2-chat-13B-Chinese-50W](https://huggingface.co/RicardoLee/Llama2-chat-13B-Chinese-50W)
 - 基于Llama2-base-7B的全参数微调中文对话模型(1 epoch 预发布版本)：[Llama2-base-7B-Chinese-50W-pre\_release](https://huggingface.co/RicardoLee/Llama2-base-7B-Chinese-50W-pre_release)
 - 基于Llama2-base-7B的全参数微调转LoRA训练中文对话模型：[Llama2-base-7B-Chinese-50W-Full2LoRA](https://huggingface.co/RicardoLee/Llama2-base-7B-Chinese-50W-Full2LoRA)
+- 基于Llama2-base-7B的全参数微调中文对话模型(3 epoch 标准版本)：[Llama2-base-7B-Chinese-50W-fullTune](https://huggingface.co/RicardoLee/Llama2-base-7B-Chinese-50W-fullTune)
 - 基于Llama2-base-7B的中文对话LoRA补丁及合并后的模型：[Llama2-base-7B-Chinese-50W-LoRA](https://huggingface.co/RicardoLee/Llama2-base-7B-Chinese-50W-LoRA)
 - 基于Llama2-base-13B的中文对话LoRA补丁及合并后的模型：[Llama2-base-7B-Chinese-50W-LoRA](https://huggingface.co/RicardoLee/Llama2-base-7B-Chinese-50W-LoRA)
